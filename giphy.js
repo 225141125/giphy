@@ -1,5 +1,5 @@
-var randomwordURL=["https://random-word-api.herokuapp.com/word?number=1"]
-var giphySearchURL="http://api.giphy.com/v1/gifs/search?api_key=iLHOOBz1jO8j9q58fDymftf0iVCq5Z2x&limit=5"
+var randomwordURL="https://random-word-api.herokuapp.com/word?number=1"
+var giphySearchURL="https://api.giphy.com/v1/gifs/search?api_key=iLHOOBz1jO8j9q58fDymftf0iVCq5Z2x&limit=5"
 
 async function getGIF(){
     try{
